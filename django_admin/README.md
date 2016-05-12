@@ -40,4 +40,3 @@ If you want to know more about Django admin, you should check Django's documenta
 
 This is probably a good moment to grab a coffee (or tea) or something to eat to re-energise yourself. You created your first Django model - you deserve a little timeout!
 
-
