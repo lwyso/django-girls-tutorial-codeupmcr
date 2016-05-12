@@ -739,11 +739,3 @@ Which would print:
 `range` is a function that creates a list of numbers following one after the other (these numbers are provided by you as parameters).
 
 Note that the second of these two numbers is not included in the list that is output by Python (meaning `range(1, 6)` counts from 1 to 5, but does not include the number 6). That is because "range" is half-open, and with that we mean it includes the first value, but not the last.
-
-## Summary
-
-That's it. __You totally rock!__ This was a tricky chapter, so you should feel proud of yourself. We're definitely proud of you for making it this far!
-
-You might want to briefly do something else - stretch, walk around for a bit, rest your eyes - before going on to the next chapter. :)
-
-![Cupcake](images/cupcake.png)
