@@ -14,4 +14,5 @@
 * [Django ORM (Querysets)](django_orm/README.md)
 * [Dynamic data in templates](dynamic_data_in_templates/README.md)
 * [Django templates](django_templates/README.md)
+* CSS - make it pretty
 
