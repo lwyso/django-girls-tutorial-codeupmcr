@@ -1,3 +1,4 @@
+![DjangoGirlsMcr](DjangoGirlsMcr.jpg)![CodeUpMcr](CodeUpMcr.jpg)
 # Django Girls Tutorial for CodeUp Manchester
 
 This is the CodeUpMcr edition of the Django Girls Tutorial. The contents of this tutorial have been altered and shorten to suit the Django Girls monthly working group at CodeUp Manchester. If you would like to read the full version of the Django Girls Tutorial, visit [http://tutorial.djangogirls.org/](http://tutorial.djangogirls.org/)
