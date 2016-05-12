@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Installation](installation.md)
+* [Installation](installation/README.md)
 
