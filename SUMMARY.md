@@ -16,5 +16,5 @@
 * [Django templates](django_templates/README.md)
 * [CSS - make it pretty](css/README.md)
 * [Template extending](template_extending/README.md)
-* Extend your application
+* [Extend your application](extend_your_application/README.md)
 
