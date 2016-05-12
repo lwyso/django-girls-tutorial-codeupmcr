@@ -9,5 +9,5 @@
 * [Django models](django_models/README.md)
 * [Django admin](django_admin/README.md)
 * [Django urls](django_urls/README.md)
-* Django views - time to create!
+* [Django views - time to create!](django_views/README.md)
 
