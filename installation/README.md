@@ -14,8 +14,6 @@ In the workshop you will be building a blog, and there are a few setup tasks in 
 
 Congratulations, you are all set up and ready to go! If you still have some time before the workshop, it would be useful to start reading a few of the beginning chapters:
 
-* [How the internet works](../how_the_internet_works/README.md)
-
 * [Introduction to the command line](../intro_to_command_line/README.md)
 
 * [Introduction to Python](../python_introduction/README.md)
