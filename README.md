@@ -2,6 +2,10 @@
 
 This is the CodeUpMcr edition of the Django Girls Tutorial. The content has been altered to suit the Django Girls monthly working group at CodeUp Manchester.
 
+CodeUp Manchester is a mentoring program for adults who would like to learn how to code for free. Once a month they provide a workspace for people with no programming skills to come and learn the basics, with mentors available to answer any question and help learners. 
+
+For more information, visit [http://codeupmcr.co.uk/](http://codeupmcr.co.uk/)
+
 # Django Girls Tutorial
 
 > This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
