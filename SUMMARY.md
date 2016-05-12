@@ -15,5 +15,5 @@
 * [Dynamic data in templates](dynamic_data_in_templates/README.md)
 * [Django templates](django_templates/README.md)
 * [CSS - make it pretty](css/README.md)
-* Template extending
+* [Template extending](template_extending/README.md)
 
