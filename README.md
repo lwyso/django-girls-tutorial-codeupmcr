@@ -1,6 +1,6 @@
-# Django Girls Tutorial for CodeUpMcr
+# Django Girls Tutorial for CodeUp Manchester
 
-This is the CodeUpMcr edition of the Django Girls Tutorial.
+This is the CodeUpMcr edition of the Django Girls Tutorial. The content has been altered to suit the Django Girls monthly working group at CodeUp Manchester.
 
 # Django Girls Tutorial
 
