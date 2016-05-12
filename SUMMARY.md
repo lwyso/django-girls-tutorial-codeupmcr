@@ -12,5 +12,5 @@
 * [Django views - time to create!](django_views/README.md)
 * [Introduction to HTML](html/README.md)
 * [Django ORM (Querysets)](django_orm/README.md)
-* Dynamic data in templates
+* [Dynamic data in templates](dynamic_data_in_templates/README.md)
 
