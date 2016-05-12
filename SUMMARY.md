@@ -7,4 +7,5 @@
 * [What is Django?](django/README.md)
 * [Your first Django project!](django_start_project/README.md)
 * [Django models](django_models/README.md)
+* Django admin
 
