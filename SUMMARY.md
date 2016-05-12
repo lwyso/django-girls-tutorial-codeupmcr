@@ -8,4 +8,5 @@
 * [Your first Django project!](django_start_project/README.md)
 * [Django models](django_models/README.md)
 * [Django admin](django_admin/README.md)
+* Django urls
 
