@@ -248,10 +248,8 @@ Cool, huh?:)
 |del                | rm                       | delete a directory/file | **del c:\test\test.txt**                      |
 
 These are just a very few of the commands you can run in your command line, but you're not going to use anything more than that today.
-
 If you're curious, [ss64.com](http://ss64.com) contains a complete reference of commands for all operating systems.
 
 ## Ready?
-
 Let's dive into Python!
 
