@@ -6,5 +6,5 @@
 * [Introduction to Python](python_introduction/README.md)
 * [What is Django?](django/README.md)
 * [Your first Django project!](django_start_project/README.md)
-* Django models
+* [Django models](django_models/README.md)
 
