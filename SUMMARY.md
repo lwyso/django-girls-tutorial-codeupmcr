@@ -20,4 +20,5 @@
 * [Django Forms](django_forms/README.md)
 * [Deploy!](deploy/README.md)
 * [What's next?](whats_next/README.md)
+* Glossary
 
