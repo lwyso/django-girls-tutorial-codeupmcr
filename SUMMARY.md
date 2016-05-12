@@ -18,5 +18,5 @@
 * [Template extending](template_extending/README.md)
 * [Extend your application](extend_your_application/README.md)
 * [Django Forms](django_forms/README.md)
-* Deploy!
+* [Deploy!](deploy/README.md)
 
