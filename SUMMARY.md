@@ -17,4 +17,5 @@
 * [CSS - make it pretty](css/README.md)
 * [Template extending](template_extending/README.md)
 * [Extend your application](extend_your_application/README.md)
+* Django Forms
 
