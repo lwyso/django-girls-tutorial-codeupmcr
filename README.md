@@ -31,15 +31,3 @@ Once you've finished the tutorial, you will have a simple, working web applicati
 It will (more or less) look like this:
 
 ![Figure 0.1](application.png)
-
-## About and contributing
-
-This tutorial is maintained by [DjangoGirls](http://djangogirls.org/). If you find any mistakes or want to update the tutorial please [follow the contributing guidelines](https://github.com/DjangoGirls/tutorial/blob/master/README.md).
-
-## Would you like to help us translate the tutorial to other languages?
-
-Currently, translations are being kept on crowdin.com platform in:
-
-https://crowdin.com/project/django-girls-tutorial
-
-If your language is not listed on crowdin, please [open a new issue](https://github.com/DjangoGirls/tutorial/issues/new) informing the language so we can add it.
